@@ -10,8 +10,6 @@ tags:
 # Websites 101
 Do you have a company? A side hustle? Anything, really, that you'd like to share with the wider world? If you have something worth sharing, a website can help anyone find it. 
 
-(image 0)
-
 Most people think that to make a website that doesn't look half bad, you need to do complex coding and development while using intimidating things like color theory and design. In reality however, it's significantly simpler. Using no code at all, I'll teach you how to make a simple, beautiful website that can fit your needs in under a day.
 
 ## The Grocery List.
