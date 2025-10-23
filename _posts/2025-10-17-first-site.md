@@ -53,23 +53,41 @@ Now that we've got what we want and need exactly, we can move on.
 
 ## Step 2: Structure, Simply.
 
+Structure is incredibly important to websites, yet it oft goes unnoticed. Sites like [apple](https://www.apple.com/) use structure to draw users directly into their products, and how to buy them. Sites like [google](https://www.google.com/) direct the user immediately to the search bar. This isn't by accident.
 
+![apple image](/assets/images/apple.jpg)
 
-## Step 3: Text and Fonts.
+In general, you'll want 3 *essential* parts:
 
-## Step 4: Ooh, Colors!
+* The Header
 
-## Step 5: Videos, Images, and Other Media.
+* The Body
 
-## Step 6: Publishing.
+* The Footer.
+
+The header shouldn't draw user's attention too much. It should contain naigation, and a headline.
+
+The body is where most of the content will lie. This is what you want the user to see immediately, interact with, and more. It's the main portion of the website, and the most important. Focus on this portion specifically.
+
+The footer is the last part the user will see, and the least important. It's optional, but in general, it'll include contact info, directories, and little more.
+
+![structure image](/assets/images/good.jpg)
+
+This is an example of the structure of the body of our chosen portfolio. We see its divided into two portions, an example, and the portion the user will interact with. By centering both and dividing them clearly, we essentially create two portions the eye will naturally look to as the page first loads. Since its a portfolio, we place our work front and center, along with how to see more. Then above and below, we place our short bio and contact info. By positioning these elements strategically, we create an order of importance in the user's mind, and improve the flow and feel of the website without even doing anything.
+
+## Step 3: Text, Fonts, and Colors.
+
+## Step 4: Videos, Images, and Other Media.
+
+## Step 5: Publishing.
 
 # Afterword.
 
 blah
 
-# Common Mistakes.
+## Common Mistakes.
 
-# The Once-Over.
+## The Once-Over.
 
 blah
 
