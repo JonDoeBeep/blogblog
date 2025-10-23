@@ -7,7 +7,7 @@ tags:
   - Design
   - Frontend
 ---
-
+# Websites 101
 Do you have a company? A side hustle? Anything, really, that you'd like to share with the wider world? If you have something worth sharing, a website can help anyone find it. 
 
 (image 0)
