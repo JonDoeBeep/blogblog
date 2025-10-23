@@ -27,15 +27,29 @@ To do this, you'll need a few (free) tools.
 * An Idea.
   You shouldn't just go in blind. Think of what you want.
 
-That's it. That's all you need to make your own, fully-fledged website.
+That's all you need to make your own, fully-fledged website.
 
-## Step 1: What Exactly Are We Doing?
+## Step 0: What Exactly Are We Doing?
 
 When designing a website, you need a plan. For a website to be good, it needs to be focused (at least generally). Answer the question "What exactly are we doing?" in this step. 
 
 For example, I'm a photographer. Say my answer to that question is "I help local buisnesses with clean product shots." That's my website then. I should focus on that, specifically, because that's why people will be coming to my website. 
 
-(image 1)
+## Step 1: The Beggining.
+
+First, navigate to Wix.com and create an account. Navigate to sites, a page that looks like this.
+
+![sites page](/assets/images/wixsites.jpg)
+
+Next, create a site, and choose the site matching your last question best. It should look like *this*.
+
+![next page](/assets/images/whatexactly.jpg)
+
+Finally, navigate to templates, and choose the template that calls to you the most.
+
+![templates page](/assets/images/choices.jpg)
+
+For this tutorial, I'll choose the pastel creative one for portfolios. You may choose another one.
 
 Now that we've got what we want and need exactly, we can move on.
 
