@@ -12,11 +12,11 @@ Do you have a company? A side hustle? Anything, really, that you'd like to share
 
 (image 0)
 
-Most people think that to make a website that doesn't look half bad, you need to learn how to do complex coding and development, and learn intimidating things like color theory and design. In reality, it's significantly simpler. Using no code at all, I'll teach you how to make a simple, beautiful website that can fit your needs in under a day.
+Most people think that to make a website that doesn't look half bad, you need to do complex coding and development while using intimidating things like color theory and design. In reality however, it's significantly simpler. Using no code at all, I'll teach you how to make a simple, beautiful website that can fit your needs in under a day.
 
 ## The Grocery List.
 
-To do this, however, you'll need a few (free) tools. 
+To do this, you'll need a few (free) tools. 
 
 * Wix. 
   Their website designer is free, easy, and smooth.
@@ -27,13 +27,13 @@ To do this, however, you'll need a few (free) tools.
 * An Idea.
   You shouldn't just go in blind. Think of what you want.
 
-That's it. That's all you need to make your own, fully fledged website.
+That's it. That's all you need to make your own, fully-fledged website.
 
 ## Step 1: What Exactly Are We Doing?
 
-When designing a website, you need a plan. For a website to be good, it needs to be focused, at least generally. Answer the question "What exactly are we doing?" 
+When designing a website, you need a plan. For a website to be good, it needs to be focused (at least generally). Answer the question "What exactly are we doing?" in this step. 
 
-For example, I'm a photographer. Say my answer to that question is, "I help local buisnesses with clean product shots." That's my website then. I should focus on that, specifically, because that's why people will be coming to my website. 
+For example, I'm a photographer. Say my answer to that question is "I help local buisnesses with clean product shots." That's my website then. I should focus on that, specifically, because that's why people will be coming to my website. 
 
 (image 1)
 
