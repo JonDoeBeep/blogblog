@@ -33,7 +33,7 @@ When designing a website, you need a plan. For a website to be good, it needs to
 
 For example, I'm a photographer. Say my answer to that question is "I help local buisnesses with clean product shots." That's my website then. I should focus on that, specifically, because that's why people will be coming to my website. 
 
-## Step 1: The Beggining.
+## Step 1: The Begining.
 
 First, navigate to Wix.com and create an account. Navigate to sites, a page that looks like this.
 
