@@ -117,11 +117,11 @@ Now that you've designed your site to the level and quality you want, it's time 
 
 Luckily with Wix, publishing is as easy as pushing a single button.
 
-![publish](/assets/images/publishbutton.png)
+![publish](/assets/images/publishbutton.jpg)
 
 Unfortunately, going online is only half of the publishing process. Fortunately, Wix also makes this part just as easy. Navigate to "Get Found On Google" on your dashboard, and you'll be presented with a basic questionnaire. After answering that, you'll see your SEO Checklist.
 
-![seo checklist](/assets/images/seochecklist.png)
+![seo checklist](/assets/images/seochecklist.jpg)
 
 SEO stands for "Search Engine Optimization." In more basic terms, that just means if someone googles your business, how far down are they gonna have to go to see you? You can make them find your site easier by advertising, obviously, but you can also perform SEO optimization. This includes things like targeting key words (e.g. your location, what you do, etc.), use the title of your site to be descriptive and clear to potential users, and putting high quality content on your site, so people actually go to it and spend time on it. After completing this checklist, you're nearly done with creating a great website.
 
